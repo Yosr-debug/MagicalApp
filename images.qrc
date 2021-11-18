@@ -4,5 +4,10 @@
         <file>afficher.png</file>
         <file>menu.png</file>
         <file>supprimer.jpg</file>
+        <file>plus.jpg</file>
+        <file>ajouter2.png</file>
+        <file>recherche.png</file>
+        <file>plusmodif.jpg</file>
+        <file>image_init.png</file>
     </qresource>
 </RCC>
